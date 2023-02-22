@@ -1,0 +1,6 @@
+ <nav class="container">
+            <p clas="item"><link href="index.html">Accueil</p>
+            <p class="item"><link href="histoire.html">Histoire</p>
+            <p class="item"><link href="contact.html">Contact</p>
+            <p class="item">Membres</p>
+        </nav>
